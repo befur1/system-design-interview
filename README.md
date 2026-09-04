@@ -1,8 +1,6 @@
 # system-design-interview
 홍익대학교 2026-2 대규모 시스템 설계 스터디입니다.
 
-# System Design Interview
-
 - [스터디 책](http://product.kyobobook.co.kr/detail/S000001033116)
 
 ## 📆 기간
